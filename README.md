@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Nothion : https://www.notion.so/Development-9b89418d47e646a1b1b33e0c9ee8b369
+### Blog : https://blog.naver.com/swiniee
+
+
 
 <!--
 **star1606/star1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
