@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⭐Notion : https://www.notion.so/Development-9b89418d47e646a1b1b33e0c9ee8b369
+### ⭐Notion : [https://www.notion.so/Development-9b89418d47e646a1b1b33e0c9ee8b369](https://transparent-tarragon-d1a.notion.site/Suin-Lee-6d0f9a630d174064bbf0c4286dab67ea)
 ### 🍃Spring Study : https://www.notion.so/Spring-79fbfb38f4a547238c9180dd54749c73 
 ### 🧶Blog : https://blog.naver.com/swiniee
 
