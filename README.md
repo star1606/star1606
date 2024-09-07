@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### ⭐Notion : [https://transparent-tarragon-d1a.notion.site/Suin-Lee-6d0f9a630d174064bbf0c4286dab67ea](https://transparent-tarragon-d1a.notion.site/Suin-Lee-6d0f9a630d174064bbf0c4286dab67ea)
-### 🍃Spring Study : [https://www.notion.so/Spring-79fbfb38f4a547238c9180dd54749c73](https://www.notion.so/Spring-79fbfb38f4a547238c9180dd54749c73?pvs=4) 
+### 🍃Spring Study : https://transparent-tarragon-d1a.notion.site/Spring-Blog-Mybatis-Project-70189bdad5104189982cc2e87c341f98
 ### 🧶Blog : https://blog.naver.com/swiniee
 
 
